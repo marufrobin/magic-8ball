@@ -1,4 +1,4 @@
-#Sat Sep 10 12:19:52 BDT 2022
+#Sat Sep 10 16:47:24 BDT 2022
 base.0=/home/marlin/code/flutterApp/magic_8ball/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

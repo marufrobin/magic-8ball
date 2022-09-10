@@ -1,16 +1,12 @@
-# magic_8ball
+# Magic 8 ball
 
-A new Flutter project.
+A Flutter project for decision making.
 
-## Getting Started
-
+## Project Description.
 This project is a starting point for a Flutter application.
+### Here are the Screenshot:
+![askMeAnything](https://user-images.githubusercontent.com/47666475/189481249-39f69ac5-3ee8-48ce-949a-c46f08962d11.gif)
+------------------------------
 
-A few resources to get you started if this is your first Flutter project:
+![Ask me anything](https://user-images.githubusercontent.com/47666475/189481250-57ea1de7-9d78-4fe6-a757-b59b3edb642c.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
